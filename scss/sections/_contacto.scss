@@ -1,41 +1,44 @@
 /* formulario de contacto */
+.main-container{
+  height: 100vh;
+}
+
 .main-container .texto {
-    display: none;
+  display: none;
+}
+
+.contacto {
+  h2 {
+    display: flex;
+    justify-content: center;
   }
-  
-  .contacto {
-    h2 {
-      display: flex;
-      justify-content: center;
-    }
-  
-    .form-floating {
-      display: flex;
-      margin: 0 auto;
-      padding: 5px;
-      width: 40vw;
-    }
-  }
-  
-  /* hover de formulario */
-  
-  .form-control:hover {
-    border: 1px solid black;
-    transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
-  }
-  
-  /* boton y hover */
-  
-  .botom {
+
+  .form-floating {
     display: flex;
     margin: 0 auto;
-    margin-top: 2px;
-    margin-bottom: 3px;
-    padding: 2px;
-  
-    &:hover {
-      background-color: #e6a8f27b;
-      transition: 2ms;
-    }
+    padding: 5px;
+    width: 40vw;
   }
-  
+}
+
+/* hover de formulario */
+
+.form-control:hover {
+  border: 1px solid black;
+  transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+}
+
+/* boton y hover */
+
+.botom {
+  display: flex;
+  margin: 0 auto;
+  margin-top: 2px;
+  margin-bottom: 3px;
+  padding: 2px;
+
+  &:hover {
+    background-color: #e6a8f27b;
+    transition: 2ms;
+  }
+}
