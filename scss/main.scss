@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500;700&family=Montserrat:ital,wght@0,500;1,100;1,300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: dancing, sans-serif
+}
+
+@import '../variable/colores';
+@import './sections/header';
+@import './sections/main-index';
+@import './sections/productos';
+@import './sections/contacto';
+@import './sections/footer';
+
+
+
+
+
+/* comienza el Main */
+
+// .main-container{
+//     width: 90vw;
+//     height: 210vh;
+//     max-width: 1200px;
+//     padding: 30px;
+//     padding-bottom: 30px;
+//     margin: 0 auto;
+//     overflow: hidden;
+//     background-color: rgba(242, 238, 233, 0.55);
+
+// }
+
+
+//container Accesorios
+.caintainerAccesorios{
+    display: flex;
+    flex-direction: row;
+
+}
+
+// acerca de
+.main__container{
+    background-image: $acercade;
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+/* termina el main de acerca de ekam */
+
+
+/* media queries */
+@media (min-width: 768px) {
+ .navbar-expand-md .navbar-collapse {
+    display: flex;
+    flex-basis: auto;
+    justify-content: end;
+    }
+}
+
+
+

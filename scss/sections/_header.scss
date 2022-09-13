@@ -1,0 +1,19 @@
+/* Navbar */
+.color-nav{
+    background-image: $header-footer;
+}
+/* logo */
+.logo{
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+}
+
+#navbarNav{
+    justify-content: flex-end;
+}
+
+.navbar-nav{
+    --bs-nav-link-color: #0a0505;
+    --bs-nav-link-hover-color: #807682b3;
+}

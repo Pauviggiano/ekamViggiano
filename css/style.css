@@ -1,0 +1,133 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500;700&family=Montserrat:ital,wght@0,500;1,100;1,300&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: dancing, sans-serif; }
+
+/* Navbar */
+.color-nav {
+  background-image: linear-gradient(21deg, white, #f55fbc, #c408c4); }
+
+/* logo */
+.logo {
+  height: 100px;
+  width: 100px;
+  border-radius: 50px; }
+
+#navbarNav {
+  justify-content: flex-end; }
+
+.navbar-nav {
+  --bs-nav-link-color: #0a0505;
+  --bs-nav-link-hover-color: #807682b3; }
+
+.wrap {
+  width: 100%;
+  height: 300px;
+  display: flex;
+  padding: 5px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  align-items: center;
+  justify-content: center;
+  background-image: url(https://res.cloudinary.com/dd68h7zlq/image/upload/v1662941697/Proyecto%20final%20Coder/loto_eu8vyu.jpg);
+  background-size: cover; }
+  .wrap__frase {
+    flex-wrap: wrap;
+    justify-content: center;
+    font-size: solid;
+    font-family: montserrat, sans-serif;
+    margin: 20px;
+    padding: 5px; }
+
+.mainGaleria {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap; }
+  .mainGaleria__img {
+    width: 200px;
+    margin: 5px;
+    padding: 5px; }
+
+/* Productos */
+.card {
+  margin: 2px;
+  padding: 5px;
+  margin-bottom: 10px; }
+
+.row {
+  justify-content: center;
+  margin-bottom: 10px;
+  --bs-gutter-x: -0.5rem; }
+
+/* formulario de contacto */
+.main-container .texto {
+  display: none; }
+
+.contacto h2 {
+  display: flex;
+  justify-content: center; }
+
+.contacto .form-floating {
+  display: flex;
+  margin: 0 auto;
+  padding: 5px;
+  width: 40vw; }
+
+/* hover de formulario */
+.form-control:hover {
+  border: 1px solid black;
+  transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s; }
+
+/* boton y hover */
+.botom {
+  display: flex;
+  margin: 0 auto;
+  margin-top: 2px;
+  margin-bottom: 3px;
+  padding: 2px; }
+  .botom:hover {
+    background-color: #e6a8f27b;
+    transition: 2ms; }
+
+/* comienza el footer */
+.footer {
+  width: 100%;
+  display: flex;
+  height: 40px;
+  background-image: linear-gradient(21deg, white, #f55fbc, #c408c4);
+  padding: 0px;
+  justify-content: space-around;
+  align-items: center; }
+
+a {
+  color: black;
+  text-decoration: none; }
+  a:hover {
+    color: #807682b3;
+    transition: 2ms; }
+
+.footer p {
+  margin-bottom: 0; }
+
+/* comienza el Main */
+.caintainerAccesorios {
+  display: flex;
+  flex-direction: row; }
+
+.main__container {
+  background-image: linear-gradient(rgba(243, 196, 241, 0.082), rgba(239, 127, 249, 0.114), rgba(247, 13, 247, 0.178));
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+  margin: 0 auto;
+  text-align: center; }
+
+/* termina el main de acerca de ekam */
+/* media queries */
+@media (min-width: 768px) {
+  .navbar-expand-md .navbar-collapse {
+    display: flex;
+    flex-basis: auto;
+    justify-content: end; } }
