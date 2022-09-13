@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/issues</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/pulls</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/actions</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/projects</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/security</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/blob/main/.gitignore</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/blob/main/desafioseo.txt</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/blob/main/index.html</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/releases</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/labels</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/milestones</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/compare</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/projects?type=classic</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/security/policy</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/security/advisories</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/blob/538616e8d8b1ca1dd850b7ba03bc88d2ae11ee3b/.gitignore</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/find/main</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/blob/538616e8d8b1ca1dd850b7ba03bc88d2ae11ee3b/index.html</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/labels?sort=name-asc</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/labels?sort=name-desc</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/labels?sort=count-desc</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/labels?sort=count-asc</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/labels/bug</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/labels/documentation</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/labels/duplicate</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/labels/enhancement</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/labels/good%20first%20issue</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/labels/help%20wanted</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/labels/invalid</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/labels/question</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/labels/wontfix</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/milestones?state=open</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/milestones?state=closed</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/projects?query=is%3Aopen&amp;type=classic</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/projects?query=is%3Aclosed&amp;type=classic</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/projects?query=is%3Aopen+sort%3Acreated-asc&amp;type=classic</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/projects?query=is%3Aopen+sort%3Aupdated-desc&amp;type=classic</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/projects?query=is%3Aopen+sort%3Aupdated-asc&amp;type=classic</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/projects?query=is%3Aopen+sort%3Aname-asc&amp;type=classic</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/security/advisories?state=published</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/find/538616e8d8b1ca1dd850b7ba03bc88d2ae11ee3b</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/projects?query=is%3Aclosed+sort%3Acreated-asc&amp;type=classic</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/projects?query=is%3Aclosed+sort%3Aupdated-desc&amp;type=classic</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/projects?query=is%3Aclosed+sort%3Aupdated-asc&amp;type=classic</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/projects?query=is%3Aclosed+sort%3Aname-asc&amp;type=classic</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/projects?query=sort%3Acreated-asc+is%3Aopen&amp;type=classic</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/projects?query=sort%3Acreated-asc+is%3Aclosed&amp;type=classic</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/projects?query=is%3Aopen+sort%3Acreated-desc&amp;type=classic</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/projects?query=sort%3Aupdated-desc+is%3Aopen&amp;type=classic</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/projects?query=sort%3Aupdated-desc+is%3Aclosed&amp;type=classic</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/projects?query=sort%3Aupdated-asc+is%3Aopen&amp;type=classic</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/projects?query=sort%3Aupdated-asc+is%3Aclosed&amp;type=classic</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/projects?query=sort%3Aname-asc+is%3Aopen&amp;type=classic</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/projects?query=sort%3Aname-asc+is%3Aclosed&amp;type=classic</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/projects?query=is%3Aclosed+sort%3Acreated-desc&amp;type=classic</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/projects?query=sort%3Acreated-desc+is%3Aopen&amp;type=classic</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/Pauviggiano/ekamViggiano/projects?query=sort%3Acreated-desc+is%3Aclosed&amp;type=classic</loc>
+  <lastmod>2022-09-13T18:46:52+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+
+
+</urlset>

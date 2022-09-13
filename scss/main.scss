@@ -46,8 +46,13 @@
     display: flex;
     flex-direction: row;
     height: 100%;
-    margin: 0 auto;
+    margin: 20px;
     text-align: center;
+    .acercade{
+        margin: 20px;
+        text-align: center;
+        height: 100%;
+    }
 }
 
 /* termina el main de acerca de ekam */
